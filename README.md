@@ -2,7 +2,7 @@
 
 Real-time computer vision scoring system for the **FIRST Tech Challenge 2025-2026 DECODE™ presented by RTX** season.
 
-Built for the **Nomadic Dragons** FTC team — used at the FTC World Championship in Houston, TX (April–May 2026).
+Built for the **Nomadic Dragons** FTC team — will be used at the FTC World Championship in Houston, TX (April–May 2026).
 
 ## What It Does
 
